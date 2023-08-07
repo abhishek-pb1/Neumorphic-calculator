@@ -20,20 +20,20 @@ document.addEventListener("keydown", function(event) {
 
 // Mouse clicks
 
-// document.addEventListener("click", function(key) {
-//     switch (key) {
-//         case "Enter":
-//             calc();
-//             break;
-//         case "x":
-//             inputBox.value += '*';
-//             break;
+document.addEventListener("click", function(key) {
+    switch (key) {
+        case "Enter":
+            calc();
+            break;
+        case "x":
+            inputBox.value += '*';
+            break;
     
     
-//         default:
-//             break;
-//     }
-// })
+        default:
+            break;
+    }
+})
 
 
 
