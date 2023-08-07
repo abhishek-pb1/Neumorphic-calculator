@@ -120,6 +120,20 @@ body {
         grid-gap: 10px;
         column-gap: 10px;
      }
+     .btn {
+        padding: 10px;
+        border-radius: 4px;
+        background: #F1F3F6;
+        box-shadow:  5px 5px 9px #DCE1EF,
+                 -5px -5px 9px #ffffff;
+    }
+    /* Repeating btn dark cause for some reason it's not working from the original css */
+    .btn-dark {
+        background-color: #121212;
+        color: #fff;
+        box-shadow:  8px 8px 12px #DCE1EF,
+        -1px -1px 1px #ffffff;
+    }
 
     
     
