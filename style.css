@@ -115,7 +115,11 @@ body {
         max-width: 100%;
         padding: 5pxpx;
     }
-    .numpad { padding: 20px 10px; }
+    .numpad { 
+        padding: 20px 10px;
+        grid-gap: 10px;
+        column-gap: 10px;
+     }
 
     
     
