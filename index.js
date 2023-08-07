@@ -67,7 +67,7 @@ document.querySelectorAll(".numpad .btn")[i].addEventListener("click", function(
         case "-":
             inputBox.value += '-';
             break;
-        case "x":
+        case "X":
             inputBox.value += '*';
             break;
         case "%":

@@ -113,8 +113,11 @@ body {
     .container { max-width: 100vw;}
     .calculator {
         max-width: 100%;
+        padding: 5pxpx;
     }
-    .numpad { padding: 0px;}
+    .numpad { padding: 20px 10px; }
+
+    
     
 }
 
